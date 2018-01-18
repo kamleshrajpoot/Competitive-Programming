@@ -66,7 +66,7 @@ void solve()
     }
     ans = max2(ctr,ans);
 
-    //cout << ans << endl;
+        cout << ans << endl;
 }
 
 int main()

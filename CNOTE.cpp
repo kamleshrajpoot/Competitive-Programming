@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 #define gc getchar
 #define pc putchar
+#define pb push_back
 #define maxm 100005
 #define sz(x) (int)x.size()
 #define sc(c) scanf("%c",&c)

@@ -1,5 +1,5 @@
 #include<cstdio>
-use namespace std;
+using namespace std;
 double n,k,m;
 
 void solve()
